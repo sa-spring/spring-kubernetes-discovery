@@ -55,7 +55,4 @@ curl https://IP_OR_HOSTNAME/services
 
 Should return you the list of available services discovered by the DiscoveryClient     
      
-``` 
-mvn clean install -Pintegration
-```
-# spring-kubernetes
+
