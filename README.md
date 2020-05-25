@@ -38,7 +38,7 @@ This will make your deployment go green. This issue is already reported into the
    
 When the application has been deployed, you can access its service or endpoint url using this command:
 ```   
-minikube service kubernetes-hello-world --url
+minikube service hello-world-example-k8s --url
 ```
   
 And next you can curl the endpoint using the url returned by the previous command
